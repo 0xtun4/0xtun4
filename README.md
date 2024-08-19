@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 ```css
-~tunat@git > tunatfetch
+~!tuna@git > !tunafetch
 ```
  
 
 <div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" border="0" style="width:156px;">
   
   ```css
-  tunat@GitHub
+  !tuna@GitHub
   -----------------
   Name: nat
   OS: Linux Mint
